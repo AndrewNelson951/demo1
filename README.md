@@ -4,3 +4,4 @@ Uses Ruby 3.0
 
 branched to tmptest1
 Another change to test commit
+This is the test-VSCode-branching
